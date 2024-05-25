@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card-ale{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 400px;
+    height: auto;
+
+}
+
+.content-card-img{
+    width: 300px;
+    height: auto;
+    background-color: black;
+    border-radius: 30px;
+}
+
+
+.card-ale img{
+    width: 80%;
+    padding: 20px;
+    border-radius: 50%;
+}
+
+.card-ale p{
+    font-size: 14px;
+    width: 90%;
+}
+
